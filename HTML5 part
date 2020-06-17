@@ -1,0 +1,92 @@
+<document html>
+<html>
+<head>
+<title>My Resume</title>
+<link rel='stylesheet' type='text/CSS' href='CSS/reset.CSS'/>
+<link rel='stylesheet' type='text/CSS' href='CSS/style.CSS'/>
+</head>
+<body>
+<div id='container'>
+<div id='header'>
+<div id='name'>
+<h1>Arpit Sharma</h1>
+<h3>Web Designer &amp;Developer</h3>
+</div><!--name-->
+<div id='contact'>
+<strong>Email:</strong>arpitshrm29@gmail.com<br />
+<strong>Phone:</strong> +91 9897235716<br/>
+<strong>Website:</strong><a href="https://sharmacreativitycornerart.photo.blog/">My Website</a>
+</div><!--contact-->
+</div><!--header-->
+
+<div class='clr'></div>
+
+<div id ='profile' class='row'>
+<h2 class='left'>Profile</h2>
+<p>Progressively evolve cross-platform ideas before impactful informediaries. </p>
+</div><!--profile-->
+
+<div class='clr'></div>
+
+<div id='skills, class='row'>
+<h2 class='left'>Skills</h2>
+<ul>
+<li>
+<h2>Web Design</h2>
+<p>I have an eye for design. I can make almost anything come together in terms of colours and images .</p>
+</li>
+<li>
+<h2>Web Programming</h2>
+<p>I have extensive experience with HTML5 , Javascript , JQuery, PHP, MySQL and more</p>
+</li>
+<li>
+<h2>Project Management</h2>
+<p>I have leadership abilities and also have no problem taking direction from others .</p>
+</li>
+</ul>
+</div><!--skills-->
+
+<div class='clr'></div>
+
+<div id='technical' class='row'>
+<h2 class='left'>Technical</h2>
+<table border='none'>
+<tr><td>XHTML</td><td>CSS</td><td>Javascript</td></tr>
+<tr><td>Jquery</td><td>PHP</td><td>MySql</td></tr>
+<tr><td>CVS/subversion</td><td>Windows</td><td>Linux</td></tr>
+</table>
+</div><!--technical-->
+
+<div class='clr'></div>
+
+<div id='experience' class='row'>
+<h2 class='left'>Experience</h2>
+<div>
+<h3>EDC JSS</h3>
+<h4>Executive Member</h4>
+</div><!--exp-->
+<div>
+<h3>National Engineering Olympiad</h3>
+<h4>Campus Ambassador</h4>
+</div><!--exp-->
+<div>
+<h3>SEED</h3>
+<h4>Executive Member</h4>
+</div><!--exp-->
+</div><!--experience-->
+
+<div class='clr'></div>
+
+<div id='education' class='row'>
+<h2 class='left'>Education</h2>
+<div>
+<h3>JSS Academy of Technical Education </h3>
+<p>B.Tech-Electrical And Electronics Engineering</p>
+</div>
+</div><!--education-->
+</div><!--container-->
+<div id='footer'>
+My Resume &copy;2020, Arpit
+</div><!--footer-->
+</body>
+</html>
